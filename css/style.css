@@ -1,0 +1,18 @@
+/* Colors
+#F18119 ORANGE
+#404040 BLACK
+#FFF WHITE
+#FF713B - #FFA51D GRADIENT */
+
+html, 
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.125rem;
+    margin: 0;
+}
+
+/* Typography */
+h1, h2, h3, p {
+    margin-top: 0;
+}
+
